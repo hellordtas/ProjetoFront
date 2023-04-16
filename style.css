@@ -24,7 +24,7 @@ body {
     align-items: center;
     flex-direction: column;
     border-bottom: 1px solid goldenrod;
-    width: 1440px;
+    width: 100%;
 }
 
 .banner {    
@@ -43,7 +43,7 @@ body {
     justify-content: flex-start;
     align-items: center;
     flex-direction: column;
-    width: 600px;    
+    width: 100%; 
     padding-top: 40px;
     
 }
@@ -165,7 +165,7 @@ body {
     line-height: 3rem;
     color:goldenrod;
     max-width: 250px;
-    margin-left: 200px;
+    margin-left: 100px;
     text-shadow: 3px 2px 0px black;
 }
 
