@@ -155,7 +155,8 @@ body {
     justify-content: center;
     align-items: flex-start;
     background-image: url('./assets/images/dourado.png'); 
-    background-size: cover;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
     background-attachment: fixed;
 }
 
