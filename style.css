@@ -157,7 +157,7 @@ body {
     background-image: url('./assets/images/dourado.png'); 
     background-size: 100% 100%;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+     background-attachment: fixed;
 }
 
 #facilite p {
